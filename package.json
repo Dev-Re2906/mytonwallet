@@ -196,7 +196,7 @@
     "@capacitor/clipboard": "7.0.0",
     "@capacitor/core": "7.1.0",
     "@capacitor/dialog": "file:mobile/plugins/native-dialog",
-    "@capacitor/filesystem": "7.0.0",
+    "@capacitor/filesystem": "7.1.1",
     "@capacitor/haptics": "7.0.0",
     "@capacitor/ios": "7.1.0",
     "@capacitor/keyboard": "7.0.0",
