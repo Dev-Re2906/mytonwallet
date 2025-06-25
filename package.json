@@ -114,7 +114,7 @@
     "@electron/rebuild": "3.7.0",
     "@mytonwallet/eslint-config": "github:mytonwallet-org/eslint-config#7e8a581eb1b2b5eb02dc8895cbea9e4b48136b89",
     "@peculiar/webcrypto": "1.5.0",
-    "@playwright/test": "1.48.0",
+    "@playwright/test": "1.52.0",
     "@statoscope/cli": "5.28.2",
     "@statoscope/webpack-plugin": "5.28.2",
     "@tonconnect/protocol": "2.2.6",
